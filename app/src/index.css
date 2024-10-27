@@ -1,0 +1,31 @@
+.input-goal {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 80%;
+  max-width: 300px;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.submitted-goal {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #28a745;
+}
