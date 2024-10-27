@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JohnnyNeedsHelpPickingNum/static/css/main.8aadc785.css",
+    "main.js": "/JohnnyNeedsHelpPickingNum/static/js/main.e67fa4fd.js",
+    "static/js/453.a6a97343.chunk.js": "/JohnnyNeedsHelpPickingNum/static/js/453.a6a97343.chunk.js",
+    "index.html": "/JohnnyNeedsHelpPickingNum/index.html",
+    "main.8aadc785.css.map": "/JohnnyNeedsHelpPickingNum/static/css/main.8aadc785.css.map",
+    "main.e67fa4fd.js.map": "/JohnnyNeedsHelpPickingNum/static/js/main.e67fa4fd.js.map",
+    "453.a6a97343.chunk.js.map": "/JohnnyNeedsHelpPickingNum/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aadc785.css",
+    "static/js/main.e67fa4fd.js"
+  ]
+}
